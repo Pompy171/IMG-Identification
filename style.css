@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+    color: black;
+}
+.heading{
+    width: 80%;
+    font-size: medium;
+}
+.objects{
+    color: magenta;
+    font-size: 20px;
+}
+#camera{
+border: 2px dashed black;
+width: 350px;
+height: 300px;
+}
